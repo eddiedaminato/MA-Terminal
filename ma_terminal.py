@@ -1,18 +1,3 @@
-"""
-MA Terminal - Strategic Financial Intelligence
-
-Professional equity research automation tool for comprehensive financial analysis.
-
-Features:
-- Automated data extraction from Yahoo Finance
-- Advanced financial metrics (Valuation, Growth, Health Score)
-- Performance visualization with professional charts
-- PDF report generation with executive summary
-
-Author: Eddie
-Version: 1.2.5
-"""
-
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
