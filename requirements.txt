@@ -1,0 +1,19 @@
+# MA Terminal - Strategic Financial Intelligence Platform
+# Python Dependencies
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Financial Data API
+yfinance>=0.2.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# PDF Generation
+fpdf>=1.7.2
+
+# Optional: Enhanced functionality
+# openpyxl>=3.1.0  # For Excel export (future feature)
+# seaborn>=0.12.0  # For advanced visualizations (future feature)
